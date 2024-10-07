@@ -42,13 +42,13 @@
 用户可以通过输入（明文 / 密文）的组合来进行对10位密钥的破解：
 
 - 输入明文和密文后点击“暴力破解”按钮：
-![image](step_fourth_first_pic.png)
+![image](step_four_first_pic.png)
 
 由上图可知，对于随机选择的一个明密文对，确实存在不止一个密钥
 
 同时可知，对于明文空间任意给定的明文分组，可以出现选择不同的密钥加密得到相同密文的情况
 
 - 示例1（明文：11111111 / 密钥：1111111111）：
-![image](step_one_first_pic.png)
+![image](step_one_second_pic.png)
 - 示例2（明文：11111111 / 密钥：1011111111）：
-![image](step_one_first_pic.png)
+![image](step_four_second_pic.png)
