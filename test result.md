@@ -5,7 +5,7 @@
 在原定基础上，扩展了输入明文(或密文)的范围至8nbit(即8的倍数位），可以通过输入（明文 / 密钥）或（密文 / 密钥）的组合来进行加密或解密操作,如下图所示：
 
 - 输入明文和密钥：
-![image]([step_one_first_pic.png](https://github.com/Tomokazuha/S-DES/blob/main/step_one_first_pic.png))
+![image](https://github.com/Tomokazuha/S-DES/blob/main/step_one_first_pic.png)
 - 点击“加密”按钮：
 ![image](step_one_second_pic.png)
 
